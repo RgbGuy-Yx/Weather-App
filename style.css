@@ -10,7 +10,7 @@ body{
 .card{
    width: 90%;
     max-width: 470px;
-    background: linear-gradient(145deg, #000000, #0a1a40); /* black to dark blue */
+  background: linear-gradient(145deg, #000000, #0f2027, #203a43, #2c5364);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
@@ -148,4 +148,5 @@ body{
    
     
     
+
 }
